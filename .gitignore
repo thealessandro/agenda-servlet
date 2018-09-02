@@ -22,6 +22,7 @@ nb-configuration.xml
 
 # Intellij
 .idea/
+out/
 *.iml
 *.iws
 
